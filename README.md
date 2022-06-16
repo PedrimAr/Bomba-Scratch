@@ -8,7 +8,7 @@ Além de apresentar imagens e ícones que remetem à cidade maravilhosa.
 Por conta de sua outra inspiração maior o jogo apresenta um forte lado musical. Nos menus é tocada uma música autoral, composta por João Victor Lourenço Borges, satirizando a inspiração no Bomba Patch e os jogadores presentes no jogo.
 E além disso, são tocadas paródias divertidas após a vitória de cada um dos jogadores.
 A própria capa do jogo é inspirada no antigo jogo, também. 
-# Desenvolvedores
+# Desenvolvedores:
 João Victor Borges Marquardt, João Victor Lourenço Borges e Pedro do Amaral Rangel
-# Link para o jogo
+# Link para o jogo:
 https://scratch.mit.edu/projects/537667756/
